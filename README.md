@@ -1,4 +1,4 @@
-readme_content = """# Camera Streaming with Server WebSocket (ESP32-CAM)
+# Camera Streaming with Server WebSocket (ESP32-CAM)
 
 ## Description
 This project allows capturing and continuously streaming video from an ESP32-CAM camera via a WebSocket server. The microcontroller connects to a Wi-Fi network and sends the captured images to the specified WebSocket server.
